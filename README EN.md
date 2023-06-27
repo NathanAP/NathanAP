@@ -1,3 +1,5 @@
+📖 [Versão em português](https://github.com/NathanAP/NathanAP/blob/main/README.md)
+
 ## 👋 Hello!
 
 My name is Nathan, I'm from Chapecó/SC (Brazil), and I'm one of those developers who have a lot of curiosity to learn about new ideas and concepts. I've been studying software development since 2010 and have been working professionally since 2013.
