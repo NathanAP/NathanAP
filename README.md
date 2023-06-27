@@ -1,4 +1,5 @@
-🇧🇷 Português 
+📖 [English version](https://github.com/NathanAP/NathanAP/blob/main/README%20EN.md)
+
 ##  👋 Olá!
 
 Meu nome é Nathan, sou de Chapecó/SC e sou um daqueles desenvolvedores que tem muita curiosidade em conhecer novas ideias e conceitos. Estudo a área de desenvolvimento de software desde 2010 e atuo profissionalmente desde 2013. 
