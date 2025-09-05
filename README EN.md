@@ -1,26 +1,24 @@
 📖 [Versão em português](https://github.com/NathanAP/NathanAP/blob/main/README.md)
 
-## 👋 Hello!
+👋 Hello!
 
-My name is Nathan, I'm from Chapecó/SC (Brazil), and I'm one of those developers who have a lot of curiosity to learn about new ideas and concepts. I've been studying software development since 2010 and have been working professionally since 2013.
+My name is Nathan, I’m from Chapecó/SC, Brazil, and I’m a developer with a strong curiosity for learning and evolving concepts and practices. I’ve been studying software development since 2010 and have been working professionally in the field since 2013.
 
-## 🚀 Activities
+🚀 Activities
 
-Currently, I have a startup where I seek to grow professionally alongside it. My main goal is to create amazing projects with it and make it a reference in the field.
+Currently, I work in the field of artificial intelligence at a startup that is not yet publicly disclosed. Our project involves applying and automating simple and complex processes using agents through LLMs.
 
-[Learn more (Moove Sistemas)](https://www.moovesistemas.com/)
+I also have experience as a private tutor, where I’ve taught and guided people from their very first steps as programmers to helping them seek opportunities in the development field. At the moment, this area is on standby, but I’m eager to return to teaching and bring more people into our professional environment.
 
-I also work as a private tutor, teaching and guiding people from the beginning of their programming journey to the point where they can pursue opportunities and gain new knowledge in the field.
+I also have a strong interest in knowledge management—a relatively small but extremely important area in day-to-day business. I feel this field has huge potential, and I can see myself contributing to it through technology.
 
-[Learn more (SuperProf)](https://www.superprof.com.br/aprenda-programacao-web-desde-basico-html-css-intermediario-javascript-basico-ate-avancado-front-com-vuejs-back.html)
+I stay very up-to-date with industry trends, always aiming to evolve my understanding of where the world is heading and applying it in our infinite space of solutions and growth.
 
-## 👨‍🚀 Interests
+🖥️ Skills
 
-My biggest desire at the moment is to work in web development and mobile applications. Throughout my years of experience, I have learned a lot about SaaS, so nowadays it is my main focus as a learner and professional.
+![LangChain](https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) 
 
-## 🖥️ Knowledge
-
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
@@ -28,7 +26,7 @@ My biggest desire at the moment is to work in web development and mobile applica
 
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Python]([https://img.shields.io/badge/Express.js-404D59?style=for-the-badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue))
 
 ![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 
@@ -40,15 +38,11 @@ My biggest desire at the moment is to work in web development and mobile applica
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ![Windows](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)
 
 ![Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
-
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
 ## 🌎 Social media
 
