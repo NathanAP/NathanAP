@@ -1,10 +1,10 @@
 📖 [Versão em português](https://github.com/NathanAP/NathanAP/blob/main/README.md)
 
-👋 Hello!
+## 👋 Hello!
 
 My name is Nathan, I’m from Chapecó/SC, Brazil, and I’m a developer with a strong curiosity for learning and evolving concepts and practices. I’ve been studying software development since 2010 and have been working professionally in the field since 2013.
 
-🚀 Activities
+## 🚀 Activities
 
 Currently, I work in the field of artificial intelligence at a startup that is not yet publicly disclosed. Our project involves applying and automating simple and complex processes using agents through LLMs.
 
@@ -14,7 +14,7 @@ I also have a strong interest in knowledge management—a relatively small but e
 
 I stay very up-to-date with industry trends, always aiming to evolve my understanding of where the world is heading and applying it in our infinite space of solutions and growth.
 
-🖥️ Skills
+## 🖥️ Skills
 
 ![LangChain](https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) 
 
