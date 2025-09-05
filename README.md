@@ -2,25 +2,23 @@
 
 ##  👋 Olá!
 
-Meu nome é Nathan, sou de Chapecó/SC e sou um daqueles desenvolvedores que tem muita curiosidade em conhecer novas ideias e conceitos. Estudo a área de desenvolvimento de software desde 2010 e atuo profissionalmente desde 2013. 
+Meu nome é Nathan, sou de Chapecó/SC e sou um desenvolvedor com muita curiosidade no aprendizado e na evolução de conceitos e práticas. Estudo a área de desenvolvimento de software desde 2010 e atuo profissionalmente desde 2013. 
 
 ## 🚀 Atividades
 
-Atualmente possuo uma startup na qual busco crescer profissionalmente junto com ela. Meu objetivo maior é criar projetos incríveis com ela e tornar ela uma referência na área.
+Atualmente atuo na área de inteligência artificial em uma startup ainda não divulgada. Nosso projeto envolve a aplicação e automação de processos simples e complexos utilizando agentes através das LLMs.
 
-[Saiba mais (Moove Sistemas)](https://www.moovesistemas.com/)
+Também tenho experiência como professor particular, onde já fui capaz de ensinar e orientar pessoas desde o início da vida como programador até a busca de oportunidades na área de desenvolvimento. Neste momento esta área profissional encontra em standby mas tenho muita vontade em voltar às aulas para trazer ainda mais pessoas para nosso ambiente profissional.
 
-Atuo também como professor particular, ensinando e orientando pessoas desde o início da vida como programador até o momento de se buscar oportunidades e novos conhecimentos na área.
+Tenho também muito interesse na área de gestão de conhecimento, uma área que é relativamente enxuta mas muito importante no dia a dia empresarial. Sinto que essa área realmente tem um potencial muito grande e consigo me ver atuando nela através da tencnologia.
 
-[Saiba mais (SuperProf)](https://www.superprof.com.br/aprenda-programacao-web-desde-basico-html-css-intermediario-javascript-basico-ate-avancado-front-com-vuejs-back.html)
-
-## 👨‍🚀 Interesses
-
-Minha maior vontade atualmente é atuar no desenvolvimento web e de aplicações móveis. Em todos meus anos de atuação, aprendi muito sobre SaaS, por isso hoje em dia é o meu maior foco como aprendiz e profissional.
+Sou muito ligado às novidades da área, então tenho essa ideia de sempre buscar a evolução mental de entender para onde o mundo está se direcionando e aplicar ela na nossa área infinita de soluções e crescimento.
 
 ## 🖥️ Conhecimento
 
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![LangChain](https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) 
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
@@ -28,7 +26,7 @@ Minha maior vontade atualmente é atuar no desenvolvimento web e de aplicações
 
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Python]([https://img.shields.io/badge/Express.js-404D59?style=for-the-badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue))
 
 ![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 
@@ -40,15 +38,11 @@ Minha maior vontade atualmente é atuar no desenvolvimento web e de aplicações
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ![Windows](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)
 
 ![Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
-
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
 ## 🌎 Redes sociais
 
