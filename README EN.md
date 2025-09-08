@@ -22,8 +22,4 @@ I stay very up-to-date with industry trends, always aiming to evolve my understa
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/linkednats) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/naatsgram) 
 
-## 📊 GitHub' stats
-
-![NathanAP's Stats](https://github-readme-stats.vercel.app/api?username=NathanAP&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
-![NathanAP's Streak](https://github-readme-streak-stats.herokuapp.com/?user=NathanAP&theme=vue-dark&hide_border=false)
-![NathanAP's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanAP&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/680da44c-c507-41f9-8293-519db2b37998" />
